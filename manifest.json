@@ -1,0 +1,6 @@
+{
+  "id": "opcb.blueprint",
+  "name": "Blueprint",
+  "apiVersion": 1,
+  "description": "在顶部打开一页蓝图：项目便签、层级聚焦与社区共享保存。"
+}
